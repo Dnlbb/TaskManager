@@ -1,0 +1,16 @@
+github.com/gofiber/fiber/v2 v2.43.0 h1:7wq8RcuUl1C0eLmrC35k4id/jUDgEud0RGaU7goOEkU=
+github.com/gofiber/fiber/v2 v2.43.0/go.mod h1:5lP4uUnkmJtN5Aw5CPbXwUdzjEh2RukOXTrmI5MYTFM=
+github.com/klauspost/compress v1.16.6 h1:lUYQsTP5JLLi9FAYpcgA3bVslNRGrMb1eij5wEvBBEM=
+github.com/klauspost/compress v1.16.6/go.mod h1:Zuh15Q8T/4yfTnEyCCgbS4R2oFScYgfve8SiML2Nfj4=
+github.com/mattn/go-isatty v0.0.19 h1:pqvHJns8nxINMNmtmS5l/LuUvcLOnmsuXzKUln3BlyA=
+github.com/mattn/go-isatty v0.0.19/go.mod h1:2zchEK6FwzMysE5c+K3MFQ1F54sl4wEXQ2sIRLZP0EU=
+github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:toXY3hI5tni4ndmPKrpg6xtkH6zGP6zkKDVMmIeHkJE=
+github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:rxGw/snQoBmcXGvGXeBlDQ+gDXBGsMxYNdsKVzvw07I=
+github.com/modern-go/reflect2 v1.0.2 h1:8/hdznU5hx5v6DpnTtM8y50BymQHJXjqC38lWY+/aeM=
+github.com/modern-go/reflect2 v1.0.2/go.mod h1:ugB9+DS0QUYtMIkqSOcO5dBA+pKH9mTGJ5KrWSmHGwM=
+github.com/sirupsen/logrus v1.9.0 h1:ehq4EAw0oH7iyqBWikV0EYHCtvpRIhdgOcnYrGmNUEM=
+github.com/sirupsen/logrus v1.9.0/go.mod h1:ho5d5EH72TTmFwwJ1hbNYXTHpYIQ9n3ekv5ljMLe7yI=
+github.com/valyala/bytebufferpool v1.0.0 h1:oxX4h5JHEa8GjOZ9ATGwFFAxUHVouHtwa6HC734Csto=
+github.com/valyala/bytebufferpool v1.0.0/go.mod h1:/RMRq9xvqdbDKuUyyXEhIZ/n7dSCEKvO5UAhpqZLCw0=
+github.com/valyala/fasthttp v1.50.0 h1:jD5dtYvJQ9z5yWoAIaeH1hMLeEqfXlL7LF2aZHGvMPE=
+github.com/valyala/fasthttp v1.50.0/go.mod h1:tdIOXMOsGfXJ9dC/z4X96aCnxqFyO8Oqswk9lqYpMh0=
